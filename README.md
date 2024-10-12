@@ -1,3 +1,3 @@
-https://only1tarunno.github.io/Yusha/
-# Yusha-LP
+https://zellyo-digital0.github.io/Yusha-LP/
+
 # Yusha-LP
