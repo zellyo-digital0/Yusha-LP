@@ -1,0 +1,240 @@
+/* tablet device */
+@media (max-width: 800px){
+
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 28px;
+    }
+    h4 {
+        font-size: 18px;
+    
+    }
+    
+    a {
+        font-size: 16px;
+    }
+    p{
+        font-size: 16px;
+    }
+        .banner_content {
+            padding: 0;
+            margin-top: 220px;
+            margin-bottom: 60px;
+            text-align: center;
+        }
+        .banner {
+            min-height: 110vh;
+        }
+        .banner_content h4 {
+            margin: 22px 0;
+        }
+        .banner-btnbox {
+            width: 50%;
+            margin: auto;
+        }
+        .banner-img {
+            width: 80%;
+            margin: auto;
+        }
+        .all-creator {
+            padding-top: 140px;
+            padding-bottom: 100px;
+            margin-top: 54px;
+        }
+        .creator-left {
+            width: 100%;
+        }
+        .creator-middle h4 {
+            margin: 10px 0 20px;
+        }
+        .hand-drawn-left {
+            margin: auto;
+        }
+        .hand-drawn-right {
+            margin-top: 50px;
+        }
+        .hand-drawn-right h2 {
+            margin: 10px 0;
+        }
+        .goals {
+            margin-top: 10px !important;
+        }
+        .hand-drawn-lef {
+            display: none;
+        }
+        .mobile-res{
+            display: block;
+        }
+        .Creativity {
+            padding: 50px 0;
+        }
+        .Creativity-left {
+            padding-bottom: 30px;
+        }
+    
+        .Creativity-left h4 {
+            margin: 10px 0;
+        }
+        .Creativity-right{
+            width: 80%;
+        margin: auto;
+        }
+        .price {
+            padding-top: 60px;
+            padding-bottom: 100px;
+            min-height: 400px;
+        }
+        .soft-des h4{
+            width: 70%;
+        }
+        .soft-img-box {
+            border: 2px solid var(--cs-titleblack);
+            border-radius: 20px;
+            margin: 10px 0;
+        }
+        .people-right {
+            display: none;
+        }
+        .footer-second{
+            margin-top: 20px;
+        }
+        .footer-second ul li {
+            padding: 2px 0;
+        }
+        /*------------- home page end ------------------*/
+        /*---------- about page start here------ */
+        .team-box {
+            height: 500px;
+        }
+     /* software page start here */
+     .soft-btnbox {
+        width: 170px;
+        margin: auto;
+    }
+    .software-hero{
+        min-height: 80vh;
+        margin: 0 0 60px;
+    }
+    .software-banner {
+        margin-top: 138px;
+    }
+    .include-box {
+        height: 280px;
+    }
+    .soft-updt{
+        padding: 30px 0 50px;
+    }
+    .dwnld-price {
+        padding-bottom: 50px;
+    }
+    }
+    /* --------------------------------------------mobile device------------------------------------------ */
+    @media (max-width: 575px){
+        .navbar-brand {
+            width: 20%;
+        }
+        .cs-btn {
+            font-size: 16px;
+            padding: 10px 20px;
+        }
+        h1 {
+            font-size: 25px;
+            line-height: 30px;
+        }
+        h4 {
+            font-size: 16px;
+            line-height: 22px;
+        }
+        .banner-btnbox {
+            width: 70%;
+        }
+        .banner_content h4 {
+            margin: 15px 10px 25px;
+        }
+        .banner_content {
+            margin-top: 140px;
+        }
+        .banner {
+            min-height: 80vh;
+        }
+        .creator-left {
+            display: none;
+        }
+        .hand-drawn-right {
+            margin-left: 15px;
+        }
+        .creator-middle h4 {
+            margin: 10px 10px 20px;
+        }
+        .hand-drawn-right h2 {
+            margin: 10px 0;
+        }
+        .grow-connect {
+            display: block;
+        }
+        .hand-drawn-right a span {
+            margin-left: 5px;
+        }
+        .grow-connect ul {
+            width: 150px;
+            margin-top: 15px;
+        }
+        .grow-connect li {
+            width: 22px;
+        }
+        .Creativity-left {
+            margin-left: 10px;
+        }
+        .beta {
+            width: 90%;
+        }
+        .Software {
+            padding: 35px 0px 50px 10px;
+        }
+        .connect-iconbox {
+            width: 20%;
+            padding: 5px 15px;
+            border-radius: 10px;
+        }
+        h2 {
+            line-height: 35px;
+        }
+        p {
+            font-size: 15px;
+        }
+        .form form input {
+            padding: 5px 15px;
+        }
+        footer {
+            padding: 50px 0px 30px 10px;
+        }
+        /*------ home page ends here------------------ */
+        /*---------  about page start here------------- */
+        .mission h4 {
+            padding: 0 10px;
+        }
+        .team h4 {
+            margin: 20px 0 25px;
+        }
+     /*----------- about page ends here-------- */
+     /* sofware page start here */
+     .soft-btnbox {
+        width: 134px !important;
+    }
+    .software-hero {
+        min-height: 62vh;
+        
+    }
+    .work-icon {
+        margin: auto;
+    }
+    .work-box {  
+        height: 270px;
+        text-align: center;
+    }
+    .soft-des2 h4{
+        width: 100%;
+    }
+}
